@@ -1,4 +1,6 @@
-# Geometric Suppression of Thermodynamic Dissipation in Large-Scale Coordination Networks
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18340659.svg)](https://doi.org/10.5281/zenodo.18340659)
+
+# Thermodynamic Gated Networks: Attention as a Geometric Anti-Dissipative Force
 ## 论文代码与数据复现指南 (Code & Data Reproduction Guide)
 
 本仓库包含了论文《大规模协同网络中热力学耗散的几何抑制机制》中所有理论仿真、金融实证与 AI 实验的源代码。
